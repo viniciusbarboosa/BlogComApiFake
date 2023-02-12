@@ -1,0 +1,20 @@
+fieldset{
+    width:50%;
+    margin-left: 20%;
+}
+
+h1{
+    text-align: center;
+}
+
+#titleField{
+    width:90%;    
+}
+
+#bodyField{
+    width:90%;     
+}
+
+#insertButton{
+    float:right;
+}
